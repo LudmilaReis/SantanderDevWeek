@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_savings_white_24dp_background">@color/redPrimary</color>
+</resources>
