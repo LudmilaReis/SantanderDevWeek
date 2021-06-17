@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245244071659",
+    "project_id": "santanderdevweek-ludmila",
+    "storage_bucket": "santanderdevweek-ludmila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245244071659:android:6e54903c04c6488156b8ae",
+        "android_client_info": {
+          "package_name": "com.example.santanderdevweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245244071659-0mjsruorjl6qctrkqae47gkkptigejgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFF8222fwrZTjtMYR5hzGKmCbR07zImE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245244071659-0mjsruorjl6qctrkqae47gkkptigejgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
